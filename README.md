@@ -86,6 +86,7 @@ Testing ensures the correctness, reliability, and quality of software. This list
 ## Mocking & Stubbing
 
 - [WireMock](http://wiremock.org/) – HTTP mocking for integration testing.
+- [Spiderhash](https://spiderhash.io/) – Webhook request inspection and callback debugging for API/webhook testing workflows.
 - [Sinon.js](https://sinonjs.org/) – JavaScript mocks, spies, and stubs.
 - [Mockito](https://site.mockito.org/) – Java mocking framework.
 
