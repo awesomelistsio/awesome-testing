@@ -81,11 +81,11 @@ Testing ensures the correctness, reliability, and quality of software. This list
 
 ## Web Accessibility Testing
 
-- [axe-core](https://github.com/dequelabs/axe-core) - Open-source accessibility testing engine by Deque, the industry standard used by Chrome DevTools and Microsoft.
-- [WAVE](https://wave.webaim.org/) - Browser extension providing visual accessibility evaluation with issue icons overlaid on the page.
-- [Pa11y](https://pa11y.org/) - Command-line accessibility testing tool, ideal for CI/CD pipeline integration and automated workflows.
-- [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Built-in Chrome DevTools auditing for accessibility alongside performance, SEO, and best practices.
 - [Accessibility Insights](https://accessibilityinsights.io/) - Microsoft's free tool for web and Windows accessibility testing with guided assessments.
+- [axe-core](https://github.com/dequelabs/axe-core) - Open-source accessibility testing engine by Deque, the industry standard used by Chrome DevTools and Microsoft.
+- [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Built-in Chrome DevTools auditing for accessibility alongside performance, SEO, and best practices.
+- [Pa11y](https://pa11y.org/) - Command-line accessibility testing tool, ideal for CI/CD pipeline integration and automated workflows.
+- [WAVE](https://wave.webaim.org/) - Browser extension providing visual accessibility evaluation with issue icons overlaid on the page.
 
 ## Test Automation
 
