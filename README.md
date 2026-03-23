@@ -20,7 +20,7 @@ Testing ensures the correctness, reliability, and quality of software. This list
 - [End-to-End (E2E) Testing](#end-to-end-e2e-testing)
 - [Performance & Load Testing](#performance--load-testing)
 - [Security Testing](#security-testing)
-- [Accessibility Testing](#accessibility-testing)
+- [Web Accessibility Testing](#web-accessibility-testing)
 - [Test Automation](#test-automation)
 - [Mocking & Stubbing](#mocking--stubbing)
 - [Code Coverage](#code-coverage)
@@ -79,12 +79,11 @@ Testing ensures the correctness, reliability, and quality of software. This list
 - [Burp Suite](https://portswigger.net/burp) - Comprehensive web security testing.
 - [Nikto](https://cirt.net/Nikto2) - Web server scanner.
 
-## Accessibility Testing
+## Web Accessibility Testing
 
 - [axe-core](https://github.com/dequelabs/axe-core) - Open-source accessibility testing engine by Deque, the industry standard used by Chrome DevTools and Microsoft.
 - [WAVE](https://wave.webaim.org/) - Browser extension providing visual accessibility evaluation with issue icons overlaid on the page.
 - [Pa11y](https://pa11y.org/) - Command-line accessibility testing tool, ideal for CI/CD pipeline integration and automated workflows.
-- [RatedWithAI](https://ratedwithai.com/) - AI-powered WCAG accessibility scanner with automated monitoring and compliance reporting.
 - [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Built-in Chrome DevTools auditing for accessibility alongside performance, SEO, and best practices.
 - [Accessibility Insights](https://accessibilityinsights.io/) - Microsoft's free tool for web and Windows accessibility testing with guided assessments.
 
